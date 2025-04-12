@@ -60,6 +60,9 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
 
       _counter--;
+      _counter--;
+      _counter--;
+      _counter--;
       
     });
   }
